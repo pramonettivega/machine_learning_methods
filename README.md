@@ -1,2 +1,2 @@
-# machine-learning-1_courselet
-First Machine Learning Courselet for Found
+# Machine Learning 1
+First Machine Learning Courselet for FOUNT
