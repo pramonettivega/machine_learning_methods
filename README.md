@@ -1,2 +1,3 @@
-# Machine Learning 1
-First Machine Learning Courselet for FOUNT
+# Machine Learning Methods
+
+Introductory courselet for Machine Learning Methods - FOUNT
